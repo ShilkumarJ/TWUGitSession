@@ -1,0 +1,3 @@
+Hi,
+Use of git diff --cached
+
